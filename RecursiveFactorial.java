@@ -49,7 +49,7 @@ class RecursiveFactorial {
         // Call factorial.
         final int answer = factorial(userInt);
 
-        // Display the factorial
+        // Display the factorial.
         System.out.print("\n" + userInt + "! is: " + answer + "\n");
       }
 
